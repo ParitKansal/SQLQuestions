@@ -57,6 +57,7 @@ If you like, I can send you **hints / the approach** (not full solution) next. D
 
 ---
 **SOLUTION:**
+_WRONG_
 ```sql
 SELECT
   content_id,
