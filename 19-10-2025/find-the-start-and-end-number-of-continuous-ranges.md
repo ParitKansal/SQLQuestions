@@ -50,5 +50,3 @@ Return the result table ordered by the `start_id`.
 | 10       | 10     |
 
 ---
-
-Would you like me to extend this to handle **missing or duplicate log IDs** (e.g., logs with repeats like `2, 2, 3, 4, 10`)? That’s a common follow-up in interviews.
