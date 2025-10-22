@@ -1,8 +1,3 @@
-Perfect 👍 — you’re referring to the **LeetCode SQL problem #1699 — “Number of Calls Between Two Persons.”**
-Here’s the **complete formatted problem statement**, **example input**, and **ready-to-run MySQL setup + query template** for you to practice and understand fully 👇
-
----
-
 ## ☎️ Problem: Number of Calls Between Two Persons
 
 ### **Table Schema**
